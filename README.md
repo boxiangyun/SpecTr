@@ -5,7 +5,3 @@ SpecTr is a hybrid transformer backbone that can be easily applied to other hype
 ![Screenshot_2021-04-08_16-21-28](https://user-images.githubusercontent.com/36001411/113992943-82a7b280-9886-11eb-9e0f-283e2f30f681.png)
 
 
-# Todo List
-Data preparation
-Data Generator
-Traning files and configs
